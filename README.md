@@ -39,7 +39,7 @@ Plotted a confusion matrix to visualize the model's performance.
 
 # Conclusion:
 
-The churn prediction model achieved an accuracy of X% on the test set.
+The churn prediction model achieved an accuracy of 81% on the test set.
 The precision and recall scores indicate the model's ability to correctly classify churned customers.
 Further improvements and model optimization can be explored to enhance the predictive performance.
 This project provides a comprehensive implementation of churn prediction in the telecom industry using logistic regression. It serves as a valuable resource for individuals interested in understanding customer churn and developing predictive models to support business decision-making.
